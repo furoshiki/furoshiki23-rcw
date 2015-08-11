@@ -11,4 +11,4 @@ https://www.ruby-lang.org/ja/documentation/installation/
 
 コンソール上で「printRiceOmelet.rb」が置いてあるディレクトリへ移動。以下のコマンドを実行する。
 
-ruby printRiceOmelet.rb
+ruby printRecipe.rb

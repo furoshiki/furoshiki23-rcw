@@ -33,7 +33,7 @@ class RecipeAccessor
     @recipeList.push(recipe)
     @current_id += 1
   end
-  # 全レシピ情報をイテレータとして取得できる
+  # 全レシピ情報のイテレーター
   def each_all
     @recipeList.each do |recipe|
       yield recipe
